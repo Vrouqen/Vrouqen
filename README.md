@@ -1,5 +1,5 @@
 ## Hey there! 👋  
-I'm **Luis Loor**, a dreamer, a doer, and an aspiring software developer from the heart of the world — **Ecuador 🇪🇨**.
+I'm **Luis Loor** an aspiring software developer from the heart of the world — **Ecuador 🇪🇨**.
 
 🚀 I'm currently leveling up my coding skills, one line at a time.  
 💡 I’m passionate about building web applications that solve real problems and make life a bit easier.
